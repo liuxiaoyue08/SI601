@@ -1,0 +1,221 @@
+Rank	Country	Life expectancy at birth (years)
+1	Monaco	89.68
+2	Macau	84.43
+3	Japan	83.91
+4	Singapore	83.75
+5	San Marino	83.07
+6	Andorra	82.5
+7	Guernsey	82.24
+8	Hong Kong	82.12
+9	Australia	81.9
+10	Italy	81.86
+11	Liechtenstein	81.5
+12	Canada	81.48
+13	Jersey	81.47
+14	France	81.46
+15	Spain	81.27
+16	Sweden	81.18
+17	Switzerland	81.17
+18	Israel	81.07
+19	Iceland	81
+20	Anguilla	80.98
+21	Netherlands	80.91
+22	Bermuda	80.82
+23	Cayman Islands	80.8
+24	Isle of Man	80.76
+25	New Zealand	80.71
+26	Norway	80.32
+27	Ireland	80.32
+28	Germany	80.19
+29	Jordan	80.18
+30	United Kingdom	80.17
+31	Greece	80.05
+32	Saint Pierre and Miquelon	80
+33	Austria	79.91
+34	Faroe Islands	79.85
+35	Malta	79.85
+36	Luxembourg	79.75
+37	Belgium	79.65
+38	Virgin Islands	79.47
+39	Finland	79.41
+40	Korea, South	79.3
+41	Turks and Caicos Islands	79.26
+42	Wallis and Futuna	79.12
+43	Puerto Rico	79.07
+44	Bosnia and Herzegovina	78.96
+45	Saint Helena	78.91
+46	Gibraltar	78.83
+47	Denmark	78.78
+48	Portugal	78.7
+49	Guam	78.5
+50	United States	78.49
+51	Taiwan	78.48
+52	Bahrain	78.29
+53	Chile	78.1
+54	Qatar	78.09
+55	Panama	77.96
+56	British Virgin Islands	77.95
+57	Costa Rica	77.89
+58	Cuba	77.87
+59	Libya	77.83
+60	Albania	77.59
+61	Slovenia	77.48
+62	Dominican Republic	77.44
+63	Czech Republic	77.38
+64	Georgia	77.32
+65	Kuwait	77.28
+66	Northern Mariana Islands	77.27
+67	Argentina	77.14
+68	Saint Lucia	77.04
+69	New Caledonia	76.94
+70	United Arab Emirates	76.71
+71	Mexico	76.66
+72	Uruguay	76.41
+73	Paraguay	76.4
+74	French Polynesia	76.39
+75	Brunei	76.37
+76	Poland	76.25
+77	Dominica	76.18
+78	Morocco	76.11
+79	Slovakia	76.03
+80	Croatia	75.99
+81	Ecuador	75.94
+82	Sri Lanka	75.94
+83	Aruba	75.93
+84	Antigua and Barbuda	75.69
+85	Lithuania	75.55
+86	Tonga	75.38
+87	Macedonia	75.36
+88	Tunisia	75.24
+89	West Bank	75.24
+90	Lebanon	75.23
+91	Hungary	75.02
+92	Cook Islands	74.92
+93	Syria	74.92
+94	Saint Kitts and Nevis	74.84
+95	China	74.84
+96	Colombia	74.79
+97	Algeria	74.73
+98	Mauritius	74.71
+99	Maldives	74.69
+100	Serbia	74.56
+101	Barbados	74.52
+102	Oman	74.47
+103	American Samoa	74.44
+104	Solomon Islands	74.42
+105	Saint Vincent and the Grenadines	74.39
+106	Saudi Arabia	74.35
+107	Romania	74.22
+108	Gaza Strip	74.16
+109	Venezuela	74.08
+110	Malaysia	74.04
+111	Bulgaria	73.84
+112	Thailand	73.83
+113	Seychelles	73.77
+114	El Salvador	73.69
+115	Estonia	73.58
+116	Armenia	73.49
+117	Jamaica	73.43
+118	Montserrat	73.41
+119	Grenada	73.3
+120	Latvia	72.93
+121	Egypt	72.93
+122	Brazil	72.79
+123	Uzbekistan	72.77
+124	Turkey	72.77
+125	Peru	72.73
+126	Samoa	72.66
+127	Vietnam	72.41
+128	Nicaragua	72.18
+129	Palau	72.06
+130	Marshall Islands	72.03
+131	Philippines	71.94
+132	Micronesia, Federated States of	71.8
+133	Trinidad and Tobago	71.67
+134	Indonesia	71.62
+135	Fiji	71.59
+136	Belarus	71.48
+137	Bahamas, The	71.44
+138	Azerbaijan	71.32
+139	Greenland	71.25
+140	Guatemala	71.17
+141	Suriname	71.12
+142	Cape Verde	71
+143	Iraq	70.85
+144	Honduras	70.71
+145	Iran	70.35
+146	Bangladesh	70.06
+147	Kazakhstan	69.63
+148	Moldova	69.51
+149	Kyrgyzstan	69.45
+150	Korea, North	69.2
+151	Turkmenistan	68.84
+152	Ukraine	68.74
+153	Mongolia	68.63
+154	Belize	68.28
+155	East Timor	68.27
+156	Bolivia	67.9
+157	Bhutan	67.88
+158	Guyana	67.39
+159	India	67.14
+160	Nepal	66.51
+161	Papua New Guinea	66.46
+162	Russia	66.46
+163	Tajikistan	66.38
+164	Pakistan	66.35
+165	Nauru	65.7
+166	Burma	65.24
+167	Tuvalu	65.11
+168	Vanuatu	65.06
+169	Kiribati	64.76
+170	Yemen	64.11
+171	Madagascar	64
+172	Gambia, The	63.82
+173	Sao Tome and Principe	63.49
+174	Togo	63.17
+175	Kenya	63.07
+176	Cambodia	63.04
+177	Eritrea	62.86
+178	Laos	62.77
+179	Equatorial Guinea	62.75
+180	Comoros	62.74
+181	Sudan	62.57
+182	Haiti	62.51
+183	Djibouti	61.57
+184	Mauritania	61.53
+185	Western Sahara	61.52
+186	Ghana	61.45
+187	Benin	60.26
+188	Senegal	60.18
+189	Burundi	59.24
+190	Guinea	58.61
+191	Rwanda	58.44
+192	Liberia	57.41
+193	Cote d'Ivoire	57.25
+194	Ethiopia	56.56
+195	Sierra Leone	56.55
+196	Congo, Democratic Republic of the	55.74
+197	Botswana	55.74
+198	Congo, Republic of the	55.27
+199	Cameroon	54.71
+200	Angola	54.59
+201	Burkina Faso	54.07
+202	Niger	53.8
+203	Uganda	53.45
+204	Tanzania	53.14
+205	Mali	53.06
+206	Zambia	52.57
+207	Malawi	52.31
+208	Gabon	52.29
+209	Namibia	52.17
+210	Nigeria	52.05
+211	Mozambique	52.02
+212	Lesotho	51.86
+213	Zimbabwe	51.82
+214	Somalia	50.8
+215	Central African Republic	50.48
+216	Afghanistan	49.72
+217	Swaziland	49.42
+218	South Africa	49.41
+219	Guinea-Bissau	49.11
+220	Chad	48.69
